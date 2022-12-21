@@ -1,0 +1,9 @@
+{
+  "condition": [0, 1, 0, 0],
+  "value": "max",
+  "matrix": [
+    { "row": [3, 2, 1, 0], "answer": 6 },
+    { "row": [-3, 2, 0, 1], "answer": 0 }
+  ],
+  "basis": [0, 0, 6, 0]
+}
